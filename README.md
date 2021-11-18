@@ -1,5 +1,9 @@
 # M1-DataMining
+
 #### Frank Doronzo, Romain Dudoit, Nathan Coustance
+
+## Sujet du projet : Sujet_Projet_Data_Mining_M1.pdf
+
 
 ## Programmes de déploiement
 ### Système de classement => Classement/(arbre.py & dtree.sav)
